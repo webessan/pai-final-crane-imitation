@@ -1,0 +1,2 @@
+model,delta_m,trials,successes,success_rate
+bc_auto_v1,0.05,30,21,0.7
